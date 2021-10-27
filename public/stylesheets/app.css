@@ -24,3 +24,15 @@ a.photo{
   a.photo:hover{
     padding: 10px;
   }
+
+/* @media screen and (max-width: 480px) {
+    main {
+        80%;
+    }
+} */
+
+/* @media (min-width: 600px) {
+    .latest-post {
+        width: 33%;
+    }
+} */
